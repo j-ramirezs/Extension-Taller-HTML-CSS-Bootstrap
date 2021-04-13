@@ -1,0 +1,246 @@
+img {
+  max-height: 300px;
+}
+
+#imgcol {
+  max-width: min-content;
+  padding: 0px;
+}
+
+#row1col2row1 {
+  height: 100px;
+  width: 869.6px;
+}
+
+#row1col2row1col1 {
+  background-color: #4f4f4f;
+  padding: 25px;
+}
+
+#row1col2row1col2 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 42.465px;
+  padding-right: 42.465px;
+  background-color: #474747;
+  max-width: 144.93px;
+}
+
+#row1col2row2 {
+  height: 100px;
+  width: 869.6px;
+}
+
+#row1col2row2col1 {
+  background-color: #3f3f3f;
+  padding: 25px;
+}
+
+#row1col2row2col2 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 42.465px;
+  padding-right: 42.465px;
+  background-color: #3b3b3b;
+  max-width: 144.93px;
+}
+
+#row1col2row3 {
+  max-height: 100px;
+  width: 869.6px;
+}
+
+#row1col2row3col1 {
+  background-color: #1abc9c;
+  max-width: 144.93px;
+  padding-left: 42.465px;
+  padding-right: 42.465px;
+}
+
+#row1col2row3col2 {
+  background-color: #3498db;
+  max-width: 144.93px;
+  padding-left: 42.465px;
+  padding-right: 42.465px;
+}
+
+#row1col2row3col3 {
+  background-color: #9b59b6;
+  max-width: 144.93px;
+  padding-left: 42.465px;
+  padding-right: 42.465px;
+}
+
+#row1col2row3col4 {
+  background-color: #e67e22;
+  max-width: 144.93px;
+  padding-left: 42.465px;
+  padding-right: 42.465px;
+}
+
+#row1col2row3col5 {
+  background-color: #e74c3c;
+  max-width: 144.93px;
+  padding-left: 42.465px;
+  padding-right: 42.465px;
+}
+
+#row1col2row3col6 {
+  background-color: #d9a81d;
+  max-width: 144.93px;
+  padding-left: 42.465px;
+  padding-right: 42.465px;
+}
+
+.icon {
+  font-family: "Garamond";
+  font-weight: bold;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  font-family: "Garamond";
+  color: white;
+}
+
+#row2 {
+  margin: 0px;
+  height: 350px;
+  padding: 0px;
+}
+
+#row2col1 {
+  background-color: #ffffff;
+}
+
+#row2col2 {
+  background-color: #efefef;
+  max-width: 434.79px;
+}
+
+#personalinfotitle {
+  padding: 40px;
+}
+
+h2 {
+  font-family: "Garamond";
+  font-size: x-large;
+  font-weight: bold;
+}
+
+.titlespi {
+  font-family: "Garamond";
+  font-weight: bold;
+}
+
+.pi {
+  font-family: "Garamond";
+}
+
+#coltitlespi {
+  padding-left: 50px;
+}
+
+#colpi {
+  padding-right: 70px;
+}
+
+#infotitle {
+  padding: 40px;
+}
+
+h3 {
+  color: #e74c3c;
+  font-family: "Garamond";
+  font-weight: bold;
+  font-size: medium;
+}
+
+.icon2 {
+  max-width: 40px;
+}
+
+#info {
+  padding-left: 20px;
+  padding-right: 30px;
+}
+
+#row3 {
+  margin: 0px;
+  padding: 0px;
+}
+
+#row3col1 {
+  background-color: #9b59b6;
+  max-width: 450px;
+}
+
+#row3col2 {
+  background-color: #3498db;
+}
+
+.h2white {
+  color: white;
+}
+
+#row3col1 {
+  padding: 40px;
+}
+
+#row3col2 {
+  padding: 40px;
+}
+
+ul.timeline {
+  list-style-type: none;
+  position: relative;
+}
+ul.timeline:before {
+  content: " ";
+  background: white;
+  display: inline-block;
+  position: absolute;
+  left: 29px;
+  width: 2px;
+  height: 100%;
+  z-index: 400;
+}
+ul.timeline > li {
+  margin: 20px 0;
+  padding-left: 20px;
+}
+ul.timeline > li:before {
+  content: " ";
+  background: #9b59b6;
+  display: inline-block;
+  position: absolute;
+  border-radius: 50%;
+  border: 3px solid white;
+  left: 20px;
+  width: 20px;
+  height: 20px;
+  z-index: 400;
+}
+
+.titleevent {
+  font-family: "Garamond";
+  font-weight: bold;
+  color: white;
+}
+
+.event {
+  font-family: "Garamond";
+  color: white;
+}
+
+#titlegraph {
+  margin-bottom: 20px;
+}
+
+.graph {
+  max-width: 150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
